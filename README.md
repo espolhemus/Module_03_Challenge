@@ -37,7 +37,7 @@ There are multiple ways in which the Python script utilized for this project cou
 
 ## Limitations
 
-There were no issues encountered in this project.  However, in an effort to ensure that both the output that is displayed within the terminal and the output that is contained within the text file that is created each were identical to the examples provided, a slightly less-efficient approach to the creation of the output strings was taken to account for the slight differences in "\n" new line characters between the terminal output and the text file output in the examples provided along with the instructions for this challenge.
+There were no issues encountered in this project.  However, in an effort to ensure that both the output that is displayed within the terminal and the output that is contained within the text file that is created each were identical to the examples provided, a slightly less-efficient approach to the creation of the output strings was taken to account for the slight differences in "\n" new line characters between the terminal output and the text file output in the examples provided in the instructions for this challenge.
 
 ![Terminal Output](/Resources/terminal_output.png)
 
